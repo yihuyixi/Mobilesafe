@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/itheima/mobileguard/TestBlackNumberDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/AntiVirusActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/AppLockActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/AppManagerActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/BaseSetupActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/CallSmsSafeActivity2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/CleanCacheActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/EnterPwdActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/SelectContactActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/Setup1Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/TaskManagerActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/activities/TaskManagerSettingActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/db/ApplockDBOpenHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/db/BlackNumberDBOpenHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/db/dao/ApplockDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/db/dao/BlackNumberDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/db/dao/NumberAddressDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/domain/AppInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/domain/BlackNumberInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/domain/ContactInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/domain/TaskInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/engine/AppInfoParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/engine/TaskInfoParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/fragments" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/receivers/BootCompleteReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/receivers/KillAllRecevier.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/receivers/MyDeviceAdmin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/receivers/MyWidget.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/receivers/SmsReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/services/AutoKillService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/services/CallSmsSafeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/services/LocationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/services/ShowLocationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/services/UpdateWidgetService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/services/WatchDogService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/ui/FocusedTextView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/utils/Crypto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/utils/DensityUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/utils/Md5Utils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/utils/SmsUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/itheima/mobileguard/utils/UIUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/settings.gradle" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
